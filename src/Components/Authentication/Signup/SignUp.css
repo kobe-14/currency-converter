@@ -1,0 +1,23 @@
+.sign-up-form-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.sign-up-form {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-data {
+  width: 100%;
+}
+
+p {
+  margin: 1rem !important;
+}

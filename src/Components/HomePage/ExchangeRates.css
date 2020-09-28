@@ -1,0 +1,6 @@
+.exchange-rates-cards {
+  margin-top: 1rem;
+  height: calc(100vh - 4.265rem) !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+}

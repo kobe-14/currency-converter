@@ -1,0 +1,41 @@
+.home-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  overflow: hidden;
+}
+
+h1 {
+  padding-bottom: 0.5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  height: 3rem;
+  background-color: #4183c4;
+  width: 100%;
+  align-items: center;
+  color: #ffffff;
+}
+
+.logo {
+  margin-left: 2rem;
+}
+
+.user-info {
+  margin-right: 2rem;
+}
+
+.exchage-rates {
+  margin-top: 1rem;
+  overflow-y: auto;
+  height: calc(100vh - 2.625rem);
+}

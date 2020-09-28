@@ -1,0 +1,28 @@
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+img {
+  width: 250px;
+  height: 150px;
+  object-fit: contain;
+}
+
+.form-wrapper {
+  width: 35%;
+}
+
+.message-box {
+  width: 35%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.google-login-button {
+  width: 100%;
+  margin: 1rem 0rem 1rem 0rem !important;
+}
